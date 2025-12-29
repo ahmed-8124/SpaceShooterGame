@@ -69,5 +69,5 @@ SpaceShooterGame/
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SpaceShooterGame.git
+   git clone https://github.com/ahmed-8124/SpaceShooterGame.git
    cd SpaceShooterGame
