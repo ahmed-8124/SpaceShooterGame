@@ -1,0 +1,24 @@
+# Compiled class files
+*.class
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Build outputs
+target/
+bin/
+out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java specific
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
